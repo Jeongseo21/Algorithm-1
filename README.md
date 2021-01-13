@@ -1,2 +1,2 @@
-# Algorithm
-알고리즘 정리
+# Problem Solving
+알고리즘 문제 
